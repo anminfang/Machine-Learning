@@ -1,0 +1,11 @@
+1. Population vs Sample
+2. Mean, Median, Mode
+3. Variance vs Standard Variance
+4. Standard Error
+5. Confidence Interval (68%, 95% & 99%)
+6. t-test (x - u) / s
+7. F-test (two variance is equal or not)
+8. p-value
+9. Statistical Hyperthesis Testing
+10. Type I vs Type II (H0 is true but rejected vs H0 is false but fail to reject)
+11. Significant Level (5% vs 1%) (if p-value < alpha, significant, reject)
